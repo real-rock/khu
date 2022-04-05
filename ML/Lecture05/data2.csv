@@ -1,0 +1,5 @@
+color,click,freq
+blue,click,20
+blue,not,230
+red,click,10
+red,not,40
