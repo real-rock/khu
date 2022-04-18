@@ -4,6 +4,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="khu-ml" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="cpfd" />
+    <orderEntry type="module" module-name="lab" />
   </component>
   <component name="PackageRequirementsSettings">
     <option name="requirementsPath" value="" />
